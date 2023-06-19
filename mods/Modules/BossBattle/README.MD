@@ -10,4 +10,4 @@ This gamemode allows the player to play as a boss as it is in the adventure mode
 
 # Bugs
 
-currently the game is freezing in the main menu, for some reason!
+currently the game is freezing in the main menu, for some reason.
